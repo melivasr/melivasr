@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <h1>Hi, I'm Melissa! 👋</h1>
+  <h1>Hi, I'm Melissa! </h1>
 
   <p>
     🎓 Computer Engineering Student | 💻 Embedded Systems & Computer Architecture | 🚀 Aerospace Enthusiast
