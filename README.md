@@ -1,14 +1,12 @@
 
-# Hi, I'm Melissa!
-
 ## About Me
 
-- Computer Engineering student at **Tecnológico de Costa Rica (TEC)**.
-- Interested in **embedded systems, firmware development, computer architecture, and hardware acceleration**.
-- Experience in electronics, embedded programming, and hardware-software integration through aerospace engineering projects at **GIA-UCR**.
-- Volunteer Research Assistant at **SETEC Lab**, working on the migration of a multi-agent framework from C/C++ and FreeRTOS to Python and Linux.
-- Board Member of the **IEEE Student Branch at TEC**.
-- You can reach me at:
+- Computer Engineering student at [Tecnológico de Costa Rica (TEC)](https://www.tec.ac.cr/).
+- Interested in embedded systems, firmware development, computer architecture, and hardware acceleration.
+- Experience in electronics, embedded programming, and hardware-software integration through aerospace engineering projects at GIA-UCR.
+- Volunteer Research Assistant at SETEC Lab, working on the migration of a multi-agent framework from C/C++ and FreeRTOS to Python and Linux.
+- Board Member of the IEEE Student Branch at TEC.
+- Feel free to reach out to me:
 
 **Email:** [melissa.itcr@gmail.com](mailto:melissa.itcr@gmail.com)  
 **LinkedIn:** [Melissa Vásquez Rojas](https://www.linkedin.com/in/melissa-v%C3%A1squez-rojas-785845299/)
