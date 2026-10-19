@@ -5,18 +5,6 @@
 
 🎓 Computer Engineering Student | 💻 Embedded Systems & Computer Architecture | 🚀 Aerospace Enthusiast
 
-<p align="left">Feel free to reach out to me via:</p>
-
-  <p align="left"> <a href="https://www.linkedin.com/in/melissa-v%C3%A1squez-rojas-785845299/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" title="LinkedIn" />
-  </a>
-  <img width="12" />
-  <a href="mailto:melissa.itcr@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail" title="Gmail" />
-  </a>
-
-</div>
-
 ## About Me
 
 🎓 Computer Engineering student at [Tecnológico de Costa Rica (TEC)](https://www.tec.ac.cr/).
