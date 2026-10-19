@@ -7,7 +7,8 @@
 - Interested in **embedded systems, firmware development, computer architecture, and hardware acceleration**.
 - Experience in electronics, embedded programming, and hardware-software integration through aerospace engineering projects at **GIA-UCR**.
 - Volunteer Research Assistant at **SETEC Lab**, working on the migration of a multi-agent framework from C/C++ and FreeRTOS to Python and Linux.
-- Board Member of the **IEEE Student Branch at TEC**. Open to collaborating on software and hardware projects.
+- Board Member of the **IEEE Student Branch at TEC**.
+- You can reach me at:
 
 **Email:** [melissa.itcr@gmail.com](mailto:melissa.itcr@gmail.com)  
 **LinkedIn:** [Melissa Vásquez Rojas](https://www.linkedin.com/in/melissa-v%C3%A1squez-rojas-785845299/)
