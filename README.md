@@ -37,8 +37,6 @@
 ![Assembly](https://img.shields.io/badge/Assembly-x86%2F8086%20%7C%20RISC--V-6E4C9F?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black)
 ![POSIX](https://img.shields.io/badge/POSIX-555555.svg?style=flat)
-![Processes & Threads](https://img.shields.io/badge/Processes%20%26%20Threads-2563EB.svg?style=flat)
-![Concurrency](https://img.shields.io/badge/Concurrency-64748B.svg?style=flat)
 
 ### Embedded Systems & Hardware
 
