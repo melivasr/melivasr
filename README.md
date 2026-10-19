@@ -86,6 +86,6 @@
 - 🚀 Grupo de Ingeniería Aeroespacial (GIA-UCR): Electronics, embedded software, avionics, and hardware integration for aerospace projects.
 - 🤝 IEEE Student Branch - TEC: Board Member.
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 Embedded Linux · Hardware acceleration · Computer architecture
