@@ -79,9 +79,9 @@
 
 ## Experience & Involvement
 
-- **SETEC Lab — Tecnológico de Costa Rica:** Volunteer Research Assistant in software development.
+- **SETEC Lab - Tecnológico de Costa Rica:** Volunteer Research Assistant in software development.
 - **Grupo de Ingeniería Aeroespacial (GIA-UCR):** Electronics, embedded software, avionics, and hardware integration for aerospace projects.
-- **IEEE Student Branch — TEC:** Board Member.
+- **IEEE Student Branch - TEC:** Board Member.
 
 ## Currently Exploring
 
