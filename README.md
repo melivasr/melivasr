@@ -1,16 +1,20 @@
 
+<div align="center">
 
-# Hi, I'm Melissa! 👋
+  <h1>Hi, I'm Melissa! 👋</h1>
 
-🎓 Computer Engineering Student | 💻 Embedded Systems & Computer Architecture | 🚀 Aerospace Enthusiast
+  <p>
+    🎓 Computer Engineering Student | 💻 Embedded Systems & Computer Architecture | 🚀 Aerospace Enthusiast
+  </p>
+
+</div>
 
 ## About Me
 
-🎓 Computer Engineering student at [Tecnológico de Costa Rica (TEC)](https://www.tec.ac.cr/).
-💻 Interested in embedded systems, firmware development, computer architecture, and hardware acceleration.
-🚀 Experience in electronics, embedded programming, and hardware-software integration through aerospace engineering projects at GIA-UCR.
-🤝 Board Member of the IEEE Student Branch at TEC.
-📫 Feel free to reach out to me!
+🎓 Computer Engineering student at <a href="https://www.tec.ac.cr/">Tecnológico de Costa Rica (TEC)</a>.<br>
+💻 Interested in embedded systems, firmware development, computer architecture, and hardware acceleration.<br>
+🚀 Experience in electronics, embedded programming, and hardware-software integration through aerospace engineering projects at GIA-UCR.<br>
+🤝 Board Member of the IEEE Student Branch at TEC.<br>
 
 ## 🛠️ Skills
 
