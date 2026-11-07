@@ -1,6 +1,8 @@
 # Hi there! 
 
-My name is Melissa, and I'm a Computer Engineering student at [Tecnológico de Costa Rica (TEC)](https://www.tec.ac.cr/). I'm especially interested in **Embedded Systems**, **Firmware Development**, **Computer Architecture**, **Semiconductor Technology**, and **IoT**, and in everything that happens where hardware meets software.
+My name is Melissa, and I'm a Computer Engineering student at [Tecnológico de Costa Rica (TEC)](https://www.tec.ac.cr/).
+
+I'm especially interested in **Embedded Systems**, **Firmware Development**, **Computer Architecture**, **Semiconductor Technology**, and **IoT**, and in everything that happens where hardware meets software.
 
 ## A little about me
 
