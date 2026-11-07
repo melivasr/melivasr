@@ -1,91 +1,33 @@
+# Hi there! 
 
-<div align="center">
+My name is Melissa, and I'm a Computer Engineering student at [Tecnológico de Costa Rica (TEC)](https://www.tec.ac.cr/). I'm especially interested in **Embedded Systems**, **Firmware Development**, **Computer Architecture**, **Semiconductor Technology**, and **IoT**, and in everything that happens where hardware meets software.
 
-  <h1>Hi, I'm Melissa! </h1>
+## A little about me
 
-  <p>
-     Computer Engineering Student |  Embedded Systems & Computer Architecture |  Aerospace Enthusiast
-  </p>
+I love building things that run on real hardware. For the past two years I've worked on the electronics and embedded software team at the Aerospace Engineering Group (GIA-UCR). I programmed avionics systems there, and I led electronics and programming for our team at **ARLISS 2026** in the Nevada desert. I also hold **Level 1 and Level 2 High Power Rocketry certifications** from the Tripoli Rocketry Association. 
 
-</div>
+ I'm currently a research assistant at **SETEC Lab**, where I'm migrating a multi-agent framework from FreeRTOS to Linux. I'm also a board member of the **IEEE Student Branch at TEC**, where I help create spaces for students to learn and grow together.
 
-## About Me
+## Current tech stack
 
-Computer Engineering student at <a href="https://www.tec.ac.cr/">Tecnológico de Costa Rica (TEC)</a>.<br>
-Interested in embedded systems, firmware development, IOT, computer architecture, and hardware acceleration.<br>
-Experience in electronics, embedded programming, and hardware-software integration through aerospace engineering projects at GIA-UCR.<br>
-Board Member of the IEEE Student Branch at TEC.<br>
+- **Languages:** C, C++, Python, SystemVerilog, RISC-V Assembly
+- **Embedded:** ESP32, Raspberry Pi Pico (RP2040), bare-metal firmware, real-time scheduling (RMS/EDF)
+- **Protocols:** UART, I2C, SPI, MQTT
+- **Tools:** Linux, Git, Docker, QEMU, GDB, Icarus Verilog
 
-## Skills
+## Currently learning
 
-### Programming Languages
+- **Operating Systems & Computer Architecture:** taking Principles of Operating Systems and Computer Architecture II this semester.
+- **Semiconductors:** completing specialized training in Semiconductor Device Design and Packaging at Universidad de Costa Rica.
+- **Exploring:** embedded Linux and hardware acceleration.
 
-![C](https://img.shields.io/badge/C-00599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=flat&logo=javascript&logoColor=F7DF1E)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat&logo=kotlin&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=flat&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=flat&logo=powershell&logoColor=white)
+## Featured projects
 
-### Hardware Description Languages
+- **[Heterogeneous real-time scheduler](https://github.com/melivasr/avasquez_so_2026_s2)**: an RMS/EDF scheduler on an RP2040 node, integrated with an ESP32 node and a Linux host.
+- **[Pipelined processor (myCEcraft)](https://github.com/Fabbbri/myCEcraft)**: a co-designed SystemVerilog processor with forwarding, hazard detection, and caches.
+- **[Multithreading execution models](https://github.com/Fabbbri/fgonzalez_a2_2026_s2)**: a co-developed C++ framework benchmarking sequential, fine/coarse-grained, SMT, and CMP execution, with speedup and scalability analyzed through Amdahl's law.
+- **[IoT flood monitoring system](https://github.com/melivasr/iot-alerta-temprana-inundaciones)**: ESP32 sensor nodes publishing rainfall, water level, and soil moisture data over MQTT to a Flask API, with MySQL, MongoDB, and Grafana dashboards.
 
-![Verilog](https://img.shields.io/badge/Verilog-555555.svg?style=flat)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-007ACC.svg?style=flat)
-![VHDL](https://img.shields.io/badge/VHDL-543978.svg?style=flat)
+---
 
-### Low-Level Programming & Computer Architecture
-
-![Assembly](https://img.shields.io/badge/Assembly-x86%2F8086%20%7C%20RISC--V-6E4C9F?style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black)
-![POSIX](https://img.shields.io/badge/POSIX-555555.svg?style=flat)
-
-### Embedded Systems & Hardware
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C.svg?style=flat&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F.svg?style=flat&logo=arduino&logoColor=white)
-![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry%20Pi%20Pico-A22846.svg?style=flat&logo=raspberrypi&logoColor=white)
-![Microcontrollers](https://img.shields.io/badge/Microcontrollers-555555.svg?style=flat)
-![PCB Design](https://img.shields.io/badge/PCB%20Design-008000.svg?style=flat)
-![FPGA](https://img.shields.io/badge/FPGA-Cyclone%20V%20%2F%20DE1--SoC-0071C5.svg?style=flat)
-![Sensors](https://img.shields.io/badge/Sensors-6B7280.svg?style=flat)
-![Hardware-Software Integration](https://img.shields.io/badge/Hardware--Software%20Integration-475569.svg?style=flat)
-
-### Communication Protocols
-
-![UART](https://img.shields.io/badge/UART-007ACC.svg?style=flat)
-![I2C](https://img.shields.io/badge/I2C-00897B.svg?style=flat)
-![SPI](https://img.shields.io/badge/SPI-7B1FA2.svg?style=flat)
-![MQTT](https://img.shields.io/badge/MQTT-660066.svg?style=flat)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-2563EB.svg?style=flat)
-![Serial Communication](https://img.shields.io/badge/Serial%20Communication-64748B.svg?style=flat)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white)
-
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=flat)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=flat)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
-![Quartus](https://img.shields.io/badge/Quartus-0071C5.svg?style=flat)
-![Mission Planner](https://img.shields.io/badge/Mission%20Planner-4B5563.svg?style=flat)
-![Betaflight](https://img.shields.io/badge/Betaflight-EAB308.svg?style=flat)
-
-## Experience & Involvement
-
-- SETEC Lab - Tecnológico de Costa Rica: Volunteer Research Assistant in software development.
-- Grupo de Ingeniería Aeroespacial (GIA-UCR): Electronics, embedded software, avionics, and hardware integration for aerospace projects.
-- IEEE Student Branch - TEC: Board Member.
-
-## Currently Exploring
-
-Embedded Linux · Hardware acceleration · Computer architecture
+You can find more about me on my [LinkedIn](https://www.linkedin.com/in/melissa-v%C3%A1squez-rojas-785845299/) profile, or reach me at melissa.itcr@gmail.com.
