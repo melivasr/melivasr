@@ -4,14 +4,14 @@ My name is Melissa, and I'm a Computer Engineering student at [Tecnológico de C
 
 ## A little about me
 
-I love building things that run on real hardware. For the past two years I've worked on the electronics and embedded software team at the Aerospace Engineering Group (GIA-UCR). I programmed avionics systems there, and I led electronics and programming for our team at **ARLISS 2026** in the Nevada desert. I also hold **Level 1 and Level 2 High Power Rocketry certifications** from the Tripoli Rocketry Association. 
+I love building things that run on real hardware. For the past two years I’ve worked on the electronics and embedded software team at the Aerospace Engineering Group (GIA-UCR), where I programmed avionics systems. I competed with the team at ARLISS 2025 in Nevada, USA, and the following year I led electronics and programming for our ARLISS 2026 team. I also hold Level 1 and Level 2 High Power Rocketry certifications from the Tripoli Rocketry Association.
 
  I'm currently a research assistant at **SETEC Lab**, where I'm migrating a multi-agent framework from FreeRTOS to Linux. I'm also a board member of the **IEEE Student Branch at TEC**, where I help create spaces for students to learn and grow together.
 
 ## Current tech stack
 
 - **Languages:** C, C++, Python, SystemVerilog, RISC-V Assembly
-- **Embedded:** ESP32, Raspberry Pi Pico (RP2040), bare-metal firmware, real-time scheduling (RMS/EDF)
+- **Embedded:** ESP32, Raspberry Pi Pico (RP2040), real-time scheduling (RMS/EDF)
 - **Protocols:** UART, I2C, SPI, MQTT
 - **Tools:** Linux, Git, Docker, QEMU, GDB, Icarus Verilog
 
