@@ -6,7 +6,7 @@ I'm especially interested in **Embedded Systems**, **Firmware Development**, **C
 
 ## A little about me
 
-I enjoy building things that run on real hardware. Over the past two years, I've been part of the electronics and embedded software team at the Aerospace Engineering Group (GIA-UCR), working on avionics systems. I competed with the team at **ARLISS 2025** in Nevada, USA, and returned the following year to lead electronics and programming for our **ARLISS 2026** team. I also hold **Level 1 and Level 2 High Power Rocketry certifications** from the Tripoli Rocketry Association.
+I enjoy building things that run on real hardware. Over the past two years, I've been part of the electronics and software team at the Aerospace Engineering Group (GIA-UCR), working on avionics systems. I competed with the team at **ARLISS 2025** in Nevada, USA, and returned the following year to lead electronics and programming for our **ARLISS 2026** team. I also hold **Level 1 and Level 2 High Power Rocketry certifications** from the Tripoli Rocketry Association.
 
 I'm currently a research assistant at **SETEC Lab**, where I'm working on migrating a multi-agent framework from FreeRTOS to Linux. I'm also a board member of the **IEEE Student Branch at TEC**, helping create opportunities for students to learn, collaborate, and grow.
 
